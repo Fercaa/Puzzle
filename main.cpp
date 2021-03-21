@@ -1,4 +1,4 @@
-//Karla Fernanda Caceres Alvarado A01720082
+//Fernanda Caceres
 //Actividad Integradora
 
 #include <iostream>
